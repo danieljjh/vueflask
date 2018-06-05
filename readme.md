@@ -1,9 +1,11 @@
-# doc
+# 前端
 
-refer to https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532
+/dist 下面是  前端 web 网站   
 
-# serve back-end at localhost:5000
+# flask  后台
+```
 FLASK_APP=run.py flask run
 ```
+后台测试用网址是 /api/random
 
 
